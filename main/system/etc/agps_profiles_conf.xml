@@ -389,7 +389,7 @@ Implement #55774, disable AGPS roaming
     log_file_max_num="10"
     ni_request="yes"
     notify_timeout="8"
-    roaming="no"
+    roaming="yes"
     si_mode="mb"
     supl_version="1"
     verify_timeout="8"
